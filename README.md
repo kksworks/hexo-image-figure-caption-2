@@ -6,6 +6,12 @@
 
 npm 에 upload 하지 않고, local 로만 제공한다.
 
+## 설치방법
+
+```sh
+npm install ssh://git@github.com:kksworks/hexo-image-figure-caption-2.git
+```
+
 # hexo-image-figure-caption
 
 wrap images in figures and add caption -- forked from wayou's [hexo-image-caption](https://github.com/wayou/hexo-image-caption)
